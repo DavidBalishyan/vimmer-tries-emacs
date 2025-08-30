@@ -2,7 +2,7 @@
 
 int main() {
   printf("Hello World");
+  return 0;
 }
 
-
-// This file is edited in emacs
+// This code is writen in emacs 
